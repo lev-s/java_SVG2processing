@@ -8,7 +8,7 @@
 
 Below is sample SVG file that I have parsed:
 
-![image](https://user-images.githubusercontent.com/34050903/162162832-f792d9fc-dddd-437e-92b8-0a7b032a2685.svg)
+![](https://user-images.githubusercontent.com/34050903/162162832-f792d9fc-dddd-437e-92b8-0a7b032a2685.svg)
 
 
 
