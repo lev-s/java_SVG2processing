@@ -8,7 +8,7 @@
 
 Below is sample SVG file that I have parsed:
 
-![SVG](https://github.com/lev-s/java_SVG2processing/blob/main/test.svg)
+![SVG](https://raw.githubusercontent.com/lev-s/java_SVG2processing/main/test.svg)
 
 
 
